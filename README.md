@@ -1,12 +1,12 @@
 # Topic Classification
 
-##Methodology 
-###1.Preprocessing
-###2.Training
-###3.Testing
-###4.Accuracy
+## Methodology 
+### 1.Preprocessing
+### 2.Training
+### 3.Testing
+### 4.Accuracy
 
-###Preprocessing
+### Preprocessing
 run _split.py_ file . It will Create a folder name Lewisplit with 
  subfolder
  1.Not used
@@ -22,15 +22,15 @@ run _split.py_ file . It will Create a folder name Lewisplit with
  
  These dataset will be used for further use.
  
-###Training
+### Training
 run _table.py_  file. It will create _table.csv_ which will be furthur 
 used for testing purposes.
 
-###Testing
+### Testing
 run _testing.py_ file . It will create _testing.csv_ file which will have the 
 predicted topic of the testing file.
 
-###Accuracy
+### Accuracy
 run _accuracy.py_ file. It will tell recall precission and harmonic mean of it .
 
 
